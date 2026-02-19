@@ -5,7 +5,15 @@ DISCLAIMER  :  This code is for informational purposes only and is not intended 
                We condemn any malevolent or harmful use of this code.
 
 ---
+For the Windows version of the code open the directory Windows (/Windows) :
 
-There is a .txt file named ForkBombWin.txt under the directory CodeNotRunnable (/CodeNotRunnable).
+    There is a .txt file named ForkBombWin.txt under the directory CodeNotRunnable (/CodeNotRunnable).
 
-The "true" executable file (.bat) is named ForkBombWin.bat and is located under the directory CodeRunnable (/CodeRunnable).
+    The "true" executable file (.bat) is named ForkBombWin.bat and is located under the directory CodeRunnable (/CodeRunnable).
+
+
+For the Linux / Unix version of the code open the directory Linux|Unix (/Linux|Unix) :
+
+    There is a .txt file named ForkBombUX.txt under the directory CodeNotRunnable (/CodeNotRunnable).
+
+    The "true" executable file (.bat) is named ForkBombUX.bat and is located under the directory CodeRunnable (/CodeRunnable).
